@@ -20,17 +20,9 @@ I am Jagannath Sagar, an Electronic and Communication Engineer with a passion fo
 
 To explore my portfolio:
 
-1. Clone this repository: `git clone [Repository URL]`
+1. Clone this repository: `git clone `
 2. Open the `index.html` file in your browser to view the portfolio.
 
 ## Feedback
 
 Feedback and suggestions are welcome! If you have any questions or would like to collaborate, feel free to contact me.
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Feel free to customize the sections according to your preferences and add any additional information you deem necessary!
